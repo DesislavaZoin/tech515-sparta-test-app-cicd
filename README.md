@@ -1,4 +1,4 @@
-kdfkkdjdj# Use this repo with Jenkins
+# Use this repo with Jenkins
 
 ## About the app
 - "app" folder stores Sparta app
@@ -6,10 +6,4 @@ kdfkkdjdj# Use this repo with Jenkins
 
 check webhook works on main branch
 check webhook works on dev branch
-check
-kfj
-djj
-change
-chan
-ge
-e
+
